@@ -2,8 +2,8 @@
 
 ----------
 
-## [X-013](help152/blob/master/X-013.md) **Nutzungsbedingungen Mail-Server**
+## [X-013](X-013.md) **Nutzungsbedingungen Mail-Server**
 
-## [X-014](help152/blob/master/X-014.md) **Nutzungsbedingungen ownCloud**
+## [X-014](X-014.md) **Nutzungsbedingungen ownCloud**
 
-## [X-015](help152/blob/master/X-015.md) **Protestnote vMB-Klagen**
+## [X-015](X-015.md) **Protestnote gegen vMB-Klagen**
